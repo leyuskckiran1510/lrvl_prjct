@@ -1,3 +1,8 @@
+### requirements
+- docker
+- computer that can run docker
+- gut to use docker
+
 ### running first time
 - rename `.env.example` to `.env` 
 - setup the project
